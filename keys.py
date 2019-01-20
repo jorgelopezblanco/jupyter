@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
+CONSUMER_KEY = 'nfcNu5mb925cpERcbQbpGWxsi'
+CONSUMER_SECRET = 'DSn9hWFZM79nmAovlNGFV2mg29O3WRlxPNggMM9GcYh3uNT6eP'
+ACCESS_KEY = '292908760-wGSl6T8euoKJ0NHda9FLGLkaOUnq8vRxFnXRQK6u'
+ACCESS_SECRET = 'sIgDEnXMP11b0u5QlT37gTJOoNvyRgdbI2A5lKpzOFw16'
+
